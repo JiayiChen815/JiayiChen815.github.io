@@ -30,11 +30,11 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/FEAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts
+**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**
 
 **Jiayi Chen**, Benteng Ma, Hengfei Cui, Yong Xia
 
-[Paper](https://arxiv.org/abs/2312.02567) [Code](https://github.com/JiayiChen815/FEAL)
+[Paper](https://arxiv.org/abs/2312.02567)&emsp;[Code](https://github.com/JiayiChen815/FEAL)&emsp;[Video](https://www.youtube.com/watch?v=koDt8nN0gxg)
 
 </div>
 </div>
@@ -46,12 +46,6 @@ Think Twice Before Selection: Federated Evidential Active Learning for Medical I
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China.
+- *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
