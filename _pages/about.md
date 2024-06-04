@@ -45,7 +45,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 **FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
 
-**Jiayi Chen**$^*$, Benteng Ma$^*$, Hengfei Cui, Yong Xia$^{\dagger}$
+**Jiayi Chen** $^*$, Benteng Ma $^*$, Hengfei Cui, Yong Xia $^{\dagger}$
 
 </div>
 </div>
