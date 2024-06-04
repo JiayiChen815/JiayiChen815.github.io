@@ -47,7 +47,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 **FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
 
-<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <p style="color: red">(Early Accept)</p>
+<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Accept)</font>
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
 
