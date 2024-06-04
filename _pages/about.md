@@ -56,8 +56,8 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* NPU Master's Thesis Innovation Scholarship (Key Program)
+- *2022.11* Outstanding Completion of National Undergraduate Innovation and Entrepreneurship Training Program
 
 # 📖 Educations
 - *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China.
