@@ -61,12 +61,10 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 - *2019.09, 2021.09, 2023.09*: NPU Second-Class Academic Award
 
 # 📖 Educations
-- *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China.
-- *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China.
+- *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China
+- *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China
 
 # 👩🏻‍💻 Academic Activities
 - *2024.06.17-21*: CVPR 2024, Seattle WA, USA (Poster)
 - *2024.05.05-07*: VALSE 2024, Chongqing, China
 - *2023.07.14-17*: MICS 2023, Taiyuan, China
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=vAZAWJSg3mNGpb8OGeW0V56HjdwEWMncTfc5ElCO86M"></script>
