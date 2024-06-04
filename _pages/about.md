@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🙋🏻‍♀️ About Me
-I am a master's student at Northwestern Polytechnical University, supervised by Prof. Yong Xia and Assoc. Prof. Hengfei Cui. My recent research focuses on active learning and federated learning in medical image analysis.
+I am a master's student at Northwestern Polytechnical University, supervised by [Prof. Yong Xia](https://scholar.google.com/citations?user=Usw1jeMAAAAJ) and [Assoc. Prof. Hengfei Cui](https://scholar.google.com/citations?user=SQbO8oQAAAAJ). My recent research focuses on active learning and federated learning in medical image analysis.
 
 
 # 🔥 News
