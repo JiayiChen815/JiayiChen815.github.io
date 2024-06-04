@@ -32,7 +32,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 **Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**
 
-**Jiayi Chen**, Benteng Ma, Hengfei Cui, Yong Xia
+**Jiayi Chen**$^*$, Benteng Ma$^*$, Hengfei Cui, Yong Xia$^{\dagger}$
 
 [Paper](https://arxiv.org/abs/2312.02567)&emsp;[Code](https://github.com/JiayiChen815/FEAL)&emsp;[Video](https://www.youtube.com/watch?v=koDt8nN0gxg)
 
@@ -40,6 +40,15 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/FedEvi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
+
+**Jiayi Chen**$^*$, Benteng Ma$^*$, Hengfei Cui, Yong Xia$^{\dagger}$
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
