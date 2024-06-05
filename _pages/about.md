@@ -22,8 +22,8 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One conference paper was early accepted by MICCAI 2024. 
-- *2024.02*: &nbsp;🎉🎉 One conference paper was accepted by CVPR 2024. 
+- *2024.05*: &nbsp;🎉🎉 One conference paper was early accepted by MICCAI 2024, about Adaptive Weight Aggregation for Federated Learning. 
+- *2024.02*: &nbsp;🎉🎉 One conference paper was accepted by CVPR 2024, about [Federated Active Learning](https://arxiv.org/abs/2312.02567).
 
 # 📝 Publications 
 
@@ -68,4 +68,3 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 - *2024.06.17-21*: CVPR 2024, Seattle WA, USA (Poster)
 - *2024.05.05-07*: VALSE 2024, Chongqing, China
 - *2023.07.14-17*: MICS 2023, Taiyuan, China
-
