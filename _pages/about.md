@@ -38,8 +38,9 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 [[Paper](https://arxiv.org/abs/2312.02567), [Code](https://github.com/JiayiChen815/FEAL), [Video](https://www.youtube.com/watch?v=koDt8nN0gxg)]
 
-In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of **overconfidence** and **limited uncertainty representation** for federated active learning. To address these challenges, we propose a novel method termed Federated Evidential Active Learning (FEAL), which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
-
+<div style="text-align: justify">
+In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of **overconfidence** and **limited uncertainty representation** for federated active learning. To address these challenges, we propose a novel method termed <i>Federated Evidential Active Learning (FEAL)</i>, which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
+</div>
 </div>
 </div>
 
@@ -52,7 +53,9 @@ In real-world medical scenarios, domain shifts across clients are commonly obser
 <i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Accept)</font>
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
-
+<div style="text-align: justify">
+Existing methods often adjust aggregation weights dynamically to improve the global model's generalization, but they rely heavily on the performance or reliability of the local models, excluding an explicit measure of the generalization gap that arises from deploying the global model across varied local datasets. To address this issue, we propose FedEvi, a method that adjusts the aggregation weights based on the generalization gap between the global model and each local dataset as well as the reliability of the local models.
+</div>
 </div>
 </div>
 
