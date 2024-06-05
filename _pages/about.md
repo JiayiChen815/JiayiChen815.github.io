@@ -27,6 +27,8 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 # 📝 Publications 
 
+<sup>*</sup> denotes equal contribution and <sup>†</sup> indicates corresponding authorship.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/FEAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,7 +41,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 [[Paper](https://arxiv.org/abs/2312.02567), [Code](https://github.com/JiayiChen815/FEAL), [Video](https://www.youtube.com/watch?v=koDt8nN0gxg)]
 
 <div style="text-align: justify">
-In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of **overconfidence** and **limited uncertainty representation** for federated active learning. To address these challenges, we propose a novel method termed <i>Federated Evidential Active Learning (FEAL)</i>, which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
+In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of <b>overconfidence</b> and <b>limited uncertainty representation</b> for federated active learning. To address these challenges, we propose a novel method termed <i>Federated Evidential Active Learning (FEAL)</i>, which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
 </div>
 </div>
 </div>
