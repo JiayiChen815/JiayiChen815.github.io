@@ -38,6 +38,8 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 [[Paper](https://arxiv.org/abs/2312.02567), [Code](https://github.com/JiayiChen815/FEAL), [Video](https://www.youtube.com/watch?v=koDt8nN0gxg)]
 
+In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of **overconfidence** and **limited uncertainty representation** for federated active learning. To address these challenges, we propose a novel method termed Federated Evidential Active Learning (FEAL), which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
+
 </div>
 </div>
 
@@ -56,9 +58,9 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 # 🎖 Honors and Awards
 - *2024.05*: NPU Master's Thesis Innovation Scholarship (Key Program)
-- *2022.11*: Outstanding Completion of National Undergraduate Innovation and Entrepreneurship Training Program
-- *2020.09, 2022.09*: NPU First-Class Academic Award
-- *2019.09, 2021.09, 2023.09*: NPU Second-Class Academic Award
+- *2023.09, 2021.09, 2019.09*: NPU Second-Class Academic Award
+- *2022.09, 2020.09*: NPU First-Class Academic Award
+- *2022.05*: Outstanding Completion of National Undergraduate Innovation and Entrepreneurship Training Program
 
 # 📖 Educations
 - *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China
@@ -68,3 +70,12 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 - *2024.06.17-21*: CVPR 2024, Seattle WA, USA (Poster)
 - *2024.05.05-07*: VALSE 2024, Chongqing, China
 - *2023.07.14-17*: MICS 2023, Taiyuan, China
+
+<div>
+  <center>
+    &copy; Jiayi Chen | Last updated: 
+    <script> 
+    document.write(document.lastModified); 
+    </script>
+  </center>
+</div>
