@@ -27,7 +27,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 # 📝 Publications 
 
-<sup>*</sup> denotes equal contribution and <sup>†</sup> indicates corresponding authorship.
+> <sup>*</sup> denotes equal contribution and <sup>†</sup> indicates corresponding authorship.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/FEAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
