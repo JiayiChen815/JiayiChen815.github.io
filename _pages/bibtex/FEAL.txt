@@ -1,0 +1,8 @@
+@InProceedings{Chen_2024_CVPR,
+    author    = {Chen, Jiayi and Ma, Benteng and Cui, Hengfei and Xia, Yong},
+    title     = {Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {11439-11449}
+}

@@ -39,7 +39,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
 
-[[Paper](https://arxiv.org/abs/2312.02567), [Code](https://github.com/JiayiChen815/FEAL), [Video](https://www.youtube.com/watch?v=koDt8nN0gxg)]
+[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Think_Twice_Before_Selection_Federated_Evidential_Active_Learning_for_Medical_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Think_Twice_Before_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2312.02567)] [[Code](https://github.com/JiayiChen815/FEAL)] [BibTex](../bibtex/FEAL.txt)
 
 <div style="text-align: justify">
 In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of <b>overconfidence</b> and <b>limited uncertainty representation</b> for federated active learning. To address these challenges, we propose a novel method termed <i>Federated Evidential Active Learning (FEAL)</i>, which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
