@@ -39,7 +39,7 @@ I am a master's student at Northwestern Polytechnical University, supervised by 
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
 
-[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Think_Twice_Before_Selection_Federated_Evidential_Active_Learning_for_Medical_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Think_Twice_Before_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2312.02567)] [[Code](https://github.com/JiayiChen815/FEAL)] [[BibTex](_pages/bibtex/FEAL.txt)]
+[[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Think_Twice_Before_Selection_Federated_Evidential_Active_Learning_for_Medical_CVPR_2024_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_Think_Twice_Before_CVPR_2024_supplemental.pdf)] [[ArXiv](https://arxiv.org/abs/2312.02567)] [[Code](https://github.com/JiayiChen815/FEAL)] [[BibTex](_pages/bibtex/FEAL.txt)] [[Poster](_pages/poster/FEAL_poster.pdf)] [[Video](https://www.youtube.com/watch?v=koDt8nN0gxg)]
 
 <div style="text-align: justify">
 In real-world medical scenarios, domain shifts across clients are commonly observed, posing challenges of <b>overconfidence</b> and <b>limited uncertainty representation</b> for federated active learning. To address these challenges, we propose a novel method termed <i>Federated Evidential Active Learning (FEAL)</i>, which incorporates a sampling strategy <i> Calibrated Evidential Sampling</i> and a local training scheme <i> Evidential Model Learning</i>.
@@ -53,9 +53,10 @@ In real-world medical scenarios, domain shifts across clients are commonly obser
 
 **FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
 
-<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Accept)</font>
+<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Acceptance)</font>
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
+
 <div style="text-align: justify">
 Existing methods often adjust aggregation weights dynamically to improve the global model's generalization, but they rely heavily on the performance or reliability of the local models, excluding an explicit measure of the generalization gap that arises from deploying the global model across varied local datasets. To address this issue, we propose FedEvi, a method that adjusts the aggregation weights based on the generalization gap between the global model and each local dataset as well as the reliability of the local models.
 </div>
