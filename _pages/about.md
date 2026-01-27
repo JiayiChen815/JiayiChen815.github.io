@@ -41,7 +41,8 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 <i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025 </i> <font color="red">(Early Acceptance)</font>
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Yongsheng Pan, Bin Pu, Hengfei Cui, Yong Xia<sup>†</sup>
-[[PDF](https://papers.miccai.org/miccai-2025/paper/0548_paper.pdf)
+
+[[PDF](https://papers.miccai.org/miccai-2025/paper/0548_paper.pdf)]
 
 </div>
 </div>
@@ -56,6 +57,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 <i> IEEE Journal of Biomedical and Health Informatics (JBHI) </i> 
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Jingfeng Zhang, Yong Xia<sup>†</sup>
+
 [[PDF](https://pubmed.ncbi.nlm.nih.gov/40126962/)] [[Code](https://github.com/JiayiChen815/TDGF)]
 
 </div>
