@@ -98,6 +98,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 # 🎖 Honors and Awards
 - *2025.08*: Outstanding Master's Thesis Award
+- *2024.12*: National Scholarship 
 - *2024.05*: NPU Master's Thesis Innovation Scholarship (Key Program)
 - *2023.09, 2021.09, 2019.09*: NPU Second-Class Academic Award
 - *2022.09, 2020.09*: NPU First-Class Academic Award
@@ -109,14 +110,9 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 - *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China
 
 # 👩🏻‍💻 Reviews
-- MICCAI 2025
-- CVPR 2026
-- ECCV 2026
+- Conference: MICCAI 2025, CVPR 2026, ECCV 2026
+- Journal: IJCV
 
-# 👩🏻‍💻 Academic Activities
-- *2024.06.17-21*: CVPR 2024, Seattle WA, USA (Poster)
-- *2024.05.05-07*: VALSE 2024, Chongqing, China
-- *2023.07.14-17*: MICS 2023, Taiyuan, China
 
 <div>
   <center>
