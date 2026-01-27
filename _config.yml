@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayi Chen (陈嘉艺)"
+  name             : "Jiayi Chen"
   avatar           : "images/jychen.png"
-  bio              : "Master's student at Northwestern Polytechnical University."
-  location         : "Xi'an, China"
+  bio              : "PhD student at Monash University"
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "holar.google.com/citations?user=mWXQ_IcAAAAJ"
-  email            : "jiayichen@mail.nwpu.edu.cn"
+  email            : "jiayi.chen@monash.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

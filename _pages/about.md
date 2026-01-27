@@ -32,6 +32,52 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 ---
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/pFedST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Personalized Federated Side-Tuning for Medical Image Classification**
+
+<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025 </i> <font color="red">(Early Acceptance)</font>
+
+**Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Yongsheng Pan, Bin Pu, Hengfei Cui, Yong Xia<sup>†</sup>
+[[PDF](https://papers.miccai.org/miccai-2025/paper/0548_paper.pdf)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-JBHI</div><img src='images/TDGF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Active Learning Based on Temporal Difference of Gradient Flow in Thoracic Disease Diagnosis**
+
+<i> IEEE Journal of Biomedical and Health Informatics (JBHI) </i> 
+
+**Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Jingfeng Zhang, Yong Xia<sup>†</sup>
+[[PDF](https://pubmed.ncbi.nlm.nih.gov/40126962/)
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/FedEvi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
+
+<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Acceptance)</font>
+
+**Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
+[[PDF](https://papers.miccai.org/miccai-2024/paper/2717_paper.pdf) [Code](https://github.com/JiayiChen815/FedEvi)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/FEAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,27 +93,22 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/FedEvi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**FedEvi: Improving Federated Medical Image Segmentation via Evidential Weight Aggregation**
-
-<i> Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024 </i> <font color="red">(Early Acceptance)</font>
-
-**Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Hengfei Cui, Yong Xia<sup>†</sup>
-
-</div>
-</div>
-
 # 🎖 Honors and Awards
+- *2025.08*: Outstanding Master's Thesis Award
 - *2024.05*: NPU Master's Thesis Innovation Scholarship (Key Program)
 - *2023.09, 2021.09, 2019.09*: NPU Second-Class Academic Award
 - *2022.09, 2020.09*: NPU First-Class Academic Award
 - *2022.05*: Outstanding Completion of National Undergraduate Innovation and Entrepreneurship Training Program
 
 # 📖 Educations
-- *2022.06 - Present*: Master's student in Computer Science and Technology, Northwestern Polytechnical University, China
+- *2025.05 - Present*: PhD student in Faculty of Information Technology, Monash University, Australia
+- *2022.06 - 2025.03*: Master in Computer Science and Technology, Northwestern Polytechnical University, China
 - *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China
+
+# 👩🏻‍💻 Reviews
+- MICCAI 2025
+- CVPR 2026
+- ECCV 2026
 
 # 👩🏻‍💻 Academic Activities
 - *2024.06.17-21*: CVPR 2024, Seattle WA, USA (Poster)
