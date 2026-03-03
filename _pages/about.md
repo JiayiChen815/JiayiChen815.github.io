@@ -136,7 +136,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 - *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China
 
 # 👩🏻‍💻 Reviews
-- Conference: MICCAI 2025, CVPR 2026, ECCV 2026
+- Conference: CVPR, ECCV, MICCAI
 - Journal: IJCV
 
 
