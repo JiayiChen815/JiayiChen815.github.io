@@ -32,6 +32,32 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/VIHD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VIHD: Visual Intervention-based Hallucination Detection for Medical Visual Question Answering**
+
+<i> Under review, 2026 </i> 
+
+**Jiayi Chen**, Benteng Ma, Zehui Liao, Winston Chong, Yasmeen George, Jianfei Cai
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/LongDiff-IR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LongDiff-IR: Longitudinal Difference Attention with Instance-Aware Regularization for New MS Lesion Segmentation**
+
+<i> Under review, 2026 </i> 
+
+**Jiayi Chen**, Jin Ye, Jianghao Wu, Jarrel Seah, Anthony Kam, Winston Chong, Yasmeen George, Jianfei Cai
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/pFedST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
