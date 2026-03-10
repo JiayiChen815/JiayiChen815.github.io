@@ -58,6 +58,19 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/EviATTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EviATTA: Evidential Active Test-Time Adaptation for Medical Segment Anything Models**
+
+<i> Under review, 2026 </i> 
+
+**Jiayi Chen**, Yasmeen George, Winston Chong, Jianfei Cai
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/pFedST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
