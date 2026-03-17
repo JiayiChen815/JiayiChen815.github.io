@@ -39,7 +39,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 <i> Under review, 2026 </i> 
 
-**Jiayi Chen**, Benteng Ma, Zehui Liao, Winston Chong, Yasmeen George, Jianfei Cai
+**Jiayi Chen**<sup>†</sup>, Benteng Ma, Zehui Liao, Winston Chong, Yasmeen George, Jianfei Cai
 
 </div>
 </div>
@@ -52,7 +52,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 <i> Under review, 2026 </i> 
 
-**Jiayi Chen**, Jin Ye, Jianghao Wu, Jarrel Seah, Anthony Kam, Winston Chong, Yasmeen George, Jianfei Cai
+**Jiayi Chen**, Jin Ye<sup>†</sup>, Jianghao Wu, Jarrel Seah, Anthony Kam, Winston Chong, Yasmeen George, Jianfei Cai
 
 </div>
 </div>
@@ -65,7 +65,9 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 <i> Under review, 2026 </i> 
 
-**Jiayi Chen**, Yasmeen George, Winston Chong, Jianfei Cai
+**Jiayi Chen**<sup>†</sup>, Yasmeen George, Winston Chong, Jianfei Cai
+
+[[PDF](https://arxiv.org/pdf/2603.14666)]
 
 </div>
 </div>
