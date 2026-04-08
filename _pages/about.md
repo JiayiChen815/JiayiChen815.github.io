@@ -39,7 +39,7 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 <i> Under review, 2026 </i> 
 
-Yanyang Guo, Benteng Ma, **Jiayi Chen**, Hengfei Cui, Yong Xia<sup>†</sup>
+Yanyang Guo<sup>*</sup>, Benteng Ma<sup>*</sup>, **Jiayi Chen**, Hengfei Cui, Yong Xia<sup>†</sup>
 
 </div>
 </div>
@@ -165,7 +165,7 @@ Yanyang Guo, Benteng Ma, **Jiayi Chen**, Hengfei Cui, Yong Xia<sup>†</sup>
 - *2018.09 - 2022.06*: B.E. in Computer Science and Technology, Northwestern Polytechnical University, China
 
 # 👩🏻‍💻 Reviews
-- Conference: CVPR, ECCV, MICCAI
+- Conference: MICCAI, CVPR, ECCV, NeurIPS
 - Journal: IJCV
 
 
