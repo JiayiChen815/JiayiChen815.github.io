@@ -32,6 +32,20 @@ I am currently a PhD student at Monash University, supervised by [Prof. Jianfei 
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/FedNCARE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FedNCARE: Neural Collapse-Aligned Representation Learning for Federated Vision-Language Models under Partially Class-Disjoint Medical Data**
+
+<i> Under review, 2026 </i> 
+
+Yanyang Guo, Benteng Ma, **Jiayi Chen**, Hengfei Cui, Yong Xia<sup>†</sup>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/VIHD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
