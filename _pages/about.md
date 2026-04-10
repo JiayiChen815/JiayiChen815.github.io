@@ -97,7 +97,7 @@ Yanyang Guo<sup>*</sup>, Benteng Ma<sup>*</sup>, **Jiayi Chen**, Hengfei Cui, Yo
 
 **Jiayi Chen**<sup>*</sup>, Benteng Ma<sup>*</sup>, Yongsheng Pan, Bin Pu, Hengfei Cui, Yong Xia<sup>†</sup>
 
-[[PDF](https://papers.miccai.org/miccai-2025/paper/0548_paper.pdf)]
+[[PDF](https://papers.miccai.org/miccai-2025/paper/0548_paper.pdf)] [Code](https://github.com/JiayiChen815/pFedST)
 
 </div>
 </div>
